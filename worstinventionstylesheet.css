@@ -1,0 +1,29 @@
+/*background */
+body { 
+    background-color:rgb(26, 30, 32);
+    
+}
+
+.boxed {
+    border: 1px solid rgb(188, 188, 226);
+    background-color:rgb(56, 56, 66);
+    border-radius: 20px;}
+
+h2{
+    color:rgb(216, 216, 216);
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    font-size: 33px;
+    line-height: 20px;
+}
+p{
+    color:rgb(216, 216, 216);
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    font-size: 23px;
+    font-kerning: normal;
+    line-height: 15px;
+}
+a{
+    color: mediumturquoise;
+}
